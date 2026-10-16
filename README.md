@@ -3,9 +3,9 @@
 ## Group `<group number>`
 
 - `<Narmin Aliyeva>` | `<3539431>` | `@<nrmnaliyeva07-del>`
-- `<Nathan Lantey>` | `<student ID>` | `@<GitHub username>`
+- `<Nathan Lantey>` | `<3662012>` | `@<HunchoNate>`
 - `<Saskia Rupert>` | `<3827410>` | `@<GitHub username>`
-- `<student name>` | `<student ID>` | `@<GitHub username>`
+- `<Freek van der Arend>` | `<student ID>` | `@<sensdooo>`
 
 Adjust the number of lines to your group size.
 Keep student details in your group's private repository.
