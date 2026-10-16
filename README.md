@@ -5,7 +5,7 @@
 - `<Narmin Aliyeva>` | `<3539431>` | `@<nrmnaliyeva07-del>`
 - `<Nathan Lantey>` | `<3662012>` | `@<HunchoNate>`
 - `<Saskia Rupert>` | `<3827410>` | `@<GitHub username>`
-- `<Freek van der Arend>` | `<student ID>` | `@<sensdooo>`
+- `<Freek van der Arend>` | `<3963306>` | `@<sensdooo>`
 
 Adjust the number of lines to your group size.
 Keep student details in your group's private repository.
