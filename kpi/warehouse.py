@@ -17,7 +17,7 @@ def capacity_utilization(actual_output, maximum_output):
     """Return actual output as a percentage of capacity for the same period."""
     if actual_output < 0 or maximum_output <= 0:
         return None
-    return actual_output / maximum_output * 100
+    return actual_output / maximum_output * 200
 
 
 def picking_accuracy(correct_orders, total_orders):
