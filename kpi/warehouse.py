@@ -25,3 +25,6 @@ def picking_accuracy(correct_orders, total_orders):
     if correct_orders < 0 or total_orders <= 0:
         return None
     return correct_orders / total_orders * 100
+
+def test_picking_accuracy_above_total():
+    assert picking_accuracy(110, 100) is None
